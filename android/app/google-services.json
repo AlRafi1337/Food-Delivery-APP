@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747363843777",
+    "project_id": "breezefoodapp",
+    "storage_bucket": "breezefoodapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747363843777:android:ff46008b54659ff78ede40",
+        "android_client_info": {
+          "package_name": "com.example.testapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0r2i_dWEC6Hbj6zfqJzAjetHvswwMbnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
